@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/landing-parallax/static/css/main.9275c28d.css",
-    "main.js": "/landing-parallax/static/js/main.77b87360.js",
+    "main.css": "/landing-parallax/static/css/main.40a82828.css",
+    "main.js": "/landing-parallax/static/js/main.6650208b.js",
     "static/js/787.11d3801d.chunk.js": "/landing-parallax/static/js/787.11d3801d.chunk.js",
     "static/media/ezgif-frame-002.jpg": "/landing-parallax/static/media/ezgif-frame-002.e0f059fea77ce8a20d8c.jpg",
     "static/media/ezgif-frame-003.jpg": "/landing-parallax/static/media/ezgif-frame-003.fa5d75e270f6409e88a1.jpg",
@@ -200,12 +200,12 @@
     "static/media/ezgif-frame-190.jpg": "/landing-parallax/static/media/ezgif-frame-190.5c40dab7b2da53202e08.jpg",
     "static/media/ezgif-frame-194.jpg": "/landing-parallax/static/media/ezgif-frame-194.3ff6b11cdd8a98f22b17.jpg",
     "index.html": "/landing-parallax/index.html",
-    "main.9275c28d.css.map": "/landing-parallax/static/css/main.9275c28d.css.map",
-    "main.77b87360.js.map": "/landing-parallax/static/js/main.77b87360.js.map",
+    "main.40a82828.css.map": "/landing-parallax/static/css/main.40a82828.css.map",
+    "main.6650208b.js.map": "/landing-parallax/static/js/main.6650208b.js.map",
     "787.11d3801d.chunk.js.map": "/landing-parallax/static/js/787.11d3801d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9275c28d.css",
-    "static/js/main.77b87360.js"
+    "static/css/main.40a82828.css",
+    "static/js/main.6650208b.js"
   ]
 }
